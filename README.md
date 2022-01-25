@@ -54,7 +54,7 @@
   <tr>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil Patil&theme=ayu-mirage&hide_border=true" alt="Nikhil streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilPatil&theme=ayu-mirage&hide_border=true" alt="Nikhil streak stats">
       <a/>
     </td>
    
