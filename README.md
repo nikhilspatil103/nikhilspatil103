@@ -41,7 +41,7 @@
    <tr>
     <td>
       <a href="https://github.com/nikhilspatil103" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=nikhilspatil103&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Nikhil's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=NikhilPatil&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Nikhil's github stats">
       <a/>
     </td>
     <td>
@@ -54,7 +54,7 @@
   <tr>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilPatil&theme=ayu-mirage&hide_border=true" alt="Nikhil streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilspatil103&theme=ayu-mirage&hide_border=true" alt="Nikhil streak stats">
       <a/>
     </td>
    
