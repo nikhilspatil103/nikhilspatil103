@@ -12,8 +12,8 @@
 ##  Open-Source enthusiast || Coder !!
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 📫 If you want to talk to me feel free to email me at `rav8657@gmail.com`
-- 🙇‍♂️ Languages : `English` `Hindi`
+- 📫 If you want to talk to me feel free to email me at `nikhilspatil103@gmail.com`
+- 🙇‍♂️ Languages : `English` `Hindi` 
 
 
 <br />
@@ -40,13 +40,13 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
-      <a href="https://github.com/rav8657" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=rav8657&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="sourav's github stats">
+      <a href="https://github.com/nikhilspatil103" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=rav8657&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Nikhil's github stats">
       <a/>
     </td>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav8657&theme=ayu-mirage&layout=compact&hide_border=true" alt="sourav's language stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav8657&theme=ayu-mirage&layout=compact&hide_border=true" alt="Nikhil's language stats">
       <a/>
     </td>
    </tr>
@@ -62,7 +62,7 @@
 </table>
   
   <p align="center">
-  <a href="https://www.linkedin.com/in/sourav-shukla/" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhil-patil103" target="_blank">
     <img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
  
