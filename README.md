@@ -67,4 +67,4 @@
   <a/>
                                                  
 </p>
-                                                  If you find my work good, consider giving it a ⭐ to show some ❤️!
+                                                  <p align="center"> If you find my work good, consider giving it a ⭐ to show some ❤️!</p>
