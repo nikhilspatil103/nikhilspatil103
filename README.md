@@ -65,5 +65,6 @@
   <a href="https://www.linkedin.com/in/nikhil-patil103" target="_blank">
     <img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
-                                                  If you find my work good, consider giving it a ⭐ to show some ❤️!
+                                                 
 </p>
+ If you find my work good, consider giving it a ⭐ to show some ❤️!
