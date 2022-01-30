@@ -1,6 +1,9 @@
 ### Hey, I'm Nikhil  👋
 
+<img src="https://komarev.com/ghpvc/?username=nikhilspatil103&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" />
 
+ <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" />
+ <br/>
  
  
  </br>
@@ -42,7 +45,7 @@
       <a/>
     </td>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+<!--       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank"> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilspatil103&theme=ayu-mirage&layout=compact&hide_border=true" alt="Nikhil's language stats">
       <a/>
     </td>
@@ -50,7 +53,7 @@
   <tr>
   <tr>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+<!--       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank"> -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilspatil103&theme=ayu-mirage&hide_border=true" alt="Nikhil streak stats">
       <a/>
     </td>
