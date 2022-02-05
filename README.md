@@ -39,6 +39,7 @@
      
 <br/>
 <br/>
+<img src='https://www.codewars.com/users/nikhilspatil103/badges/small'></<img>
 ---
 
 ### Stats 📈
